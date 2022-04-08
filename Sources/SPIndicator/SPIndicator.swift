@@ -22,7 +22,7 @@
 import UIKit
 
 @available(iOSApplicationExtension, unavailable)
-public enum SPIndicator {
+public enum SPIndicatorEnum {
     
     #if os(iOS)
     
